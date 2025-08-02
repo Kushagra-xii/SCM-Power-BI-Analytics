@@ -9,3 +9,5 @@ Shipping & Delivery Dashboard – Visualizes logistics metrics such as average s
 Consumer Dashboard – Focuses on customer segmentation, sales trends, product demand, and order behavior across different demographics to support targeted decision-making.
 
 The project includes the creation of calculated DAX measures, interactive visualizations, and filterable reports to deliver actionable insights across all facets of the supply chain.
+
+<img width="1326" height="742" alt="Image" src="https://github.com/user-attachments/assets/14c2c235-c0b0-4177-9384-61490fca4cbc" />
